@@ -1,3 +1,5 @@
+[![MCP Server](https://glama.ai/mcp/servers/rog0x/mcp-lint-tools/badges/score.svg)](https://glama.ai/mcp/servers/rog0x/mcp-lint-tools)
+
 # @rog0x/mcp-lint-tools
 
 Code linting and style checking tools for AI agents, exposed as an MCP (Model Context Protocol) server.
